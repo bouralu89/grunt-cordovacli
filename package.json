@@ -28,7 +28,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "cordova": ">= 3.3"
+    "cordova": "= 3.3.1-0.4.2"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.8.0",
